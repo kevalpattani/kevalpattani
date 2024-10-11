@@ -11,7 +11,6 @@ This is a nice message [^2].
 [^1]: A big party is coming to town.
 [^2]: A nice message is being transmitted.
 
----
 
 > [!NOTE]
 > Be careful when reading this file
@@ -52,3 +51,4 @@ This is a nice message [^2].
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
+'somebody called me'
