@@ -4,16 +4,17 @@
 - ⚡ Fun fact: I know morse code 
 
 ```ruby
-require 'redcarpet'
+require 'redcarpe'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 <details>
   <summary> Jacket is on</summary>
 Damm is not so damm
+  
 ```ruby
-  for x in range(34):
-    print (lol)
+for x in range(34):
+  print (lol)
 ```
 </details>
 
