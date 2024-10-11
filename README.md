@@ -8,4 +8,4 @@
    - First nested list item
      - Second nested list item
         - The thrid comment is this
-- [] #739
+- [ ] #739
