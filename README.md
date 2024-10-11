@@ -5,8 +5,3 @@
 ---
 > hello this is my first comment
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
