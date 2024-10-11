@@ -19,8 +19,8 @@ for x in range(34):
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
+    Applicaion is on based of new tech -->B;
+    Applicaion is on based of new tech -->C;
     B-->D;
     C-->D;
 ```
