@@ -6,4 +6,4 @@
 > hello this is my first comment
 
 <!-- This is HTML comment in git hub -->
-This readme file is made with use of [google](https://www.google.com/)
+This readme file is made with use of [***google***](https://www.google.com/)
