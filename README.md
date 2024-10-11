@@ -15,3 +15,11 @@ This is a nice message [^2].
 
 > [!NOTE]
 > Be careful when reading this file
+> [!CAUTION]
+> Be careful when reading this file
+> [!WARNING]
+> Be careful when reading this file
+> [!TIP]
+> Be careful when reading this file
+> [!IMPORTANT]
+> Be careful when reading this file
