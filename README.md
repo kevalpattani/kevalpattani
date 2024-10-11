@@ -45,3 +45,10 @@ This is a nice message [^2].
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
+---
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
