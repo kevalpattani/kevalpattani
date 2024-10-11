@@ -16,5 +16,14 @@ Damm is not so damm
 for x in range(34):
   print (lol)
 ```
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 </details>
 
