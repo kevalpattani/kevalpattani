@@ -51,4 +51,4 @@ This is a nice message [^2].
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-[`somebody called me`](https://www.google.com/)
+somebody called me
